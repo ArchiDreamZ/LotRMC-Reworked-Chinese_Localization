@@ -1,18 +1,82 @@
 # Written by Goran
 #
-#author:{name:sindarin_male} of Dorwinion
-#title:On our Eastern Kin
+#author:多温尼安的{name:sindarin_male}
+#title:关于我们东方的亲族
 #types:dorwinion,woodland_realm
 #reward
 #
-Many of our western cousins have all but forgotten about our kin in the ancient birthwoods of the Far East. On my travels far and wide, I have visited their realms and learned of their ways.
+许多我们西方的同胞几乎已
+经忘记了我们生活在远东地
+区古老原始森林中的亲族。
+在我游历世界旅途中，我拜
+访过他们的国度，也领会了
+他们的生活方式。
 
-Thought by many in the West to be forever lost, the Avari still maintain great strongholds in the deep woods of the East. Fiercely independent, and even less trusting of strangers than Thranduil's kin, they patrol our ancient birthwoods and maintain their communities.
+许多西方精灵认为已经消逝
+的阿瓦瑞精灵，仍然在东方
+的深林中筑有宏伟的要塞。
+他们极度孤立，甚至较我们
+瑟兰杜伊麾下的亲族更加不
+信任外来者。他们在我们古
+老的森林内巡逻，维系着那
+里的社群。
 
-They, however, have good reason to fear outsiders. I would have fallen victim to one of their darts had they not recognized me as one of the Edhelrim. They told me tales of constant skirmishes on their borders, with savage Ephedrim - and even savager Yrch. Rarely indeed do they receive friendly guests. All but the Hadhodrim from the Ered Gerain, and the few faithful Ephedrim, wish to see those fair forests burnt to the ground.
+然而，阿瓦瑞对外来着的恐
+惧并非没有缘由。若非他们
+及时认出了我同为精灵一族
+，或许我早已沦为镖下的亡
+者了。他们同我诉说了边境
+上持续不断的冲突——其中
+非但有人类蛮族，甚至有更
+加野蛮的奥克。他们几乎不
+曾迎接过友好的来客：试图
+将他们美丽的森林付之一炬
+者四周环伺，唯有铁丘陵而
+来的矮人和少数忠贞的精灵
+是例外。
 
-Though it may surprise the loremasters of the West, the Edhil in these woods have not fallen far from our grace and knowledge. They build their dwellings amid tree-bough, and within cave, as well as upon the ground. Their constructions rival those of Thranduil and Celeborn's kin in the West. They now dwell deep in the woods and conceal their settlements with great skill: so well-hidden that only an Edhel could spot them. Their warriors clothe themselves in garments of lavender and green. They are skilled masters of the shadows and almost all their blades bear a venom on them - something that would be seen as dishonourable to our western kin, but necessary to the Avari.
+尽管这或许出乎西方史官的
+意料，但此片森林中的精灵
+在优雅和博学上并不较我们
+逊色很多。他们在树干上、
+洞穴中、地表上建造居所，
+其建筑技术足以与我们大绿
+林和黄金森林的西方同胞相
+媲美。如今，他们在森林深
+处栖身，并以过人的技术潜
+藏他们的集聚地，只有其他
+的精灵方有机会发现。他们
+身着淡紫色与绿色服装的战
+士无不是阴影中的潜伏大师
+，并且几乎总是携带淬毒的
+刀刃——或许这在我们西方
+亲族的眼中是可耻的，而对
+于阿瓦瑞精灵来说则不可或
+缺。
 
-In contrast to our western kin, the Avari maintain close relations with the Hadhodrim in the Ered Gerain. Common foe and need brought these two unlikely peoples together and they benefit one another in their trade. The Edhil bring nourishment from the forest, while the Hadhodrim supply them with iron, and other forged metals, which they use for their tools and blades. A loremaster in the West would indeed be surprised to see people of both races working so closely together against their common foes. Perhaps it is because of this willingness to work with the Hadhodrim that the Avari are not as primitive as some would expect them to be.
+与西方同胞不同，阿瓦瑞一
+直与铁丘陵的矮人维持着密
+切的关系。这对似乎不太可
+能的盟友，诞生于对抗敌人
+的共同需要，他们也通过贸
+易互相获益。森林中的精灵
+提供食物滋养，而矮人则以
+各类金铁作为回报，让他们
+可以打造武器和工具。西方
+的史官确实难以想象，两个
+不同种族的族群是如何因为
+共同的宿敌而如此紧密地合
+作。也许正是与矮人的长期
+合作关系，让阿瓦瑞精灵们
+并未有外接所认为的那般原
+始。
 
-I stayed long in those forests, but too soon the time came to return to Dorwinion. The Avari gave me many gifts and wished me good fortune on my journey home. I do hope that, one day, all Edhelrim will see the true nature of our Avarin cousins, who still remember us, the departed ones, in mellow song and tale.
+我在那片森林中驻足许久，
+但返回多温尼安的时日很快
+来临。阿瓦瑞赠与我诸多礼
+物，向我祝愿返程一路顺畅
+。我诚心希望，有朝一日，
+与我们长久分别的阿瓦瑞精
+灵，能为我们四方的亲族所
+理解。愿我们以祝福的歌谣
+与传说纪念他们。

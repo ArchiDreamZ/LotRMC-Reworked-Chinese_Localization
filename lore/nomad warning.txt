@@ -5,8 +5,24 @@
 #types:harnennor,southron,umbar,gulf
 #reward
 #
-People of the lands of all Ahâr! The following is urgent business, I beseech you! Beware of those Sand-Usurers!
+阿哈诸地的子民们啊！接下
+来的事情非常重要，我恳求
+你们听一听！千万小心沙漠
+里那些放的高利贷的！
 
-It has been two moons since I acquired a horse from {choose:Ijdi-ilel/Izêm-ulzuz/Ayûkaph-amâm} for the proud price of a hundred silver coins! And what did I get? An unruly creature, impossible to handle! When I saw the horse I was staggered by its magnificent black and white stripes, and I hoped that with it I could impress my wife when I finally came home. Now I am stuck with this beast which refuses to follow me, making hideous noises all day long!
+自我从{choose:耶迪-伊勒尔/伊泽姆-乌尔祖兹/阿娱卡夫-阿马姆}
+买来一匹马已经过去了两晚
+上，我可是花了整整一百银
+币的高价！结果我拿到了什
+么？一头桀骜不驯的东西，
+根本没法驯养！我刚见到这
+匹马的时候，还被它身上漂
+亮的黑白条纹震撼到了，想
+着能把它带回家给妻子一个
+惊喜。结果现在呢，这头野
+兽根本就不愿意听我的话，
+赖在这里不走，还整天不停
+地发出难听的叫声！
 
-Stay away from the desert-dwellers; they will deceive you!
+离沙漠里的那些人远点，他
+们都是骗子！

@@ -1,8 +1,20 @@
-#title:On Lembas
+#title:关于兰巴斯
 #author:{name:sindarin_female}
 #types:lothlorien
 #reward
 #
-Lembas! What finer waybread can an Edhel ask for on their travels? It is enough to fill one's hunger for many a day and still have enough. We wrap it in fine mallorn leaves which keep the loaves fresh as long as they are needed.
+兰巴斯！再无何种行路面包
+较之更令精灵旅行者神往。
+一片足以让一人果腹多日，
+且还能剩余许多。以瑁珑树
+叶包裹，所需之时它便能新
+鲜如初。
 
-By custom, the craft to make them is only know by few maidens among the Edhil: the Ivonwin, who know the ancient recipe passed down from Ivon herself. Only a Queen or high Lady may distribute the lembas, and if one should receive it from her, it is a sign of great favour.
+传统而言，唯有精灵族中的
+区区数位女子知晓兰巴斯制
+作的秘密。她们是雅凡娜的
+侍女，雅凡娜本人亲自传授
+了她们这一配方。只有女王
+和其他高贵的女士有权分发
+兰巴斯，有幸从她们手中得
+到一片则是至高的荣誉。

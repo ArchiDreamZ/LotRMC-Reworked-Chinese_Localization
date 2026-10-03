@@ -1,21 +1,21 @@
 # by Gruk
 #
-#title:There were Worms
-#author:Skald of Rhúnost
+#title:曾有巨虫
+#author:鲁恩诺斯特的斯卡德
 #types:rhun,dorwinion,dale
 #reward
 #
-A beast of South,
-it drills and drolls;
-it guards the pass
-but lets none pass.
-It digs and kicks
-through rock and sand;
-it chews the soil,
-but eats no salt.
-No Men can stay
-the lengthy might;
-no Men can stop
-the endless search:
-in search of food,
-and joyous fun.
+南方有一兽，
+钻石又破土；
+守卫那隘口，
+无人能通行。
+刨石并蹴沙，
+掘地到天涯；
+泥土都吞尽，
+片盐不入口。
+无人能抵挡，
+它不绝力量；
+无人能阻拦，
+它不尽搜藏；
+无人能终止，
+它寻欢乐享。

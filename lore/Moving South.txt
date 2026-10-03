@@ -1,11 +1,20 @@
 #author:{name:dunlending_male}
-#title:Moving South
+#title:向南方行进
 #types:dunland
 #reward
-It seems that we men of Dunland are not alone in our fight to take back our homelands! We can now move on the filthy Strawhead villages. We have one to follow!
+看起来我们黑蛮地人在夺回
+家园的战斗当中不是孤军奋
+战！现在我们可以朝着那些
+臭稻草头的村子里进军了。
+我们有位大人可以追随！
 
-Saruman. We will swear allegiance to the White Wizard.
+那就是萨茹曼。我们会向白
+袍巫师宣誓效忠。
 
-We will let the fields run red with the blood of the Strawheads! Our sheep will be able to roam free, and our families can spread seed through the lands...
+我们必将让稻草头的田地染
+遍鲜血！我们的羊群将可以
+自由放牧，我们的家族将可
+以在这土地上四处移居…
 
-He will deliver us sweet revenge! Saruman will make Dunland great once more!
+他会帮助我们痛快地复仇！
+萨茹曼让黑蛮地再次伟大！

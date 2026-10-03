@@ -1,7 +1,21 @@
-#title:Lamentation
-#author:{name:sindarin_male} of Eregion
+#title:挽歌
+#author:埃瑞吉安的{name:sindarin_male}
 #types:eregion,rivendell
 #
-It grieves my heart to see the Noldorin kingdoms fall to waste. First there was the White City of Gondolin, majestic and proud, a flower over the plain; and Nargothrond the fair. But our time here is fading, and the hallowed halls of Mandos call once more for us.
+见诸诺多王国尽化荒芜，我
+心痛彻。
+昔有刚多林白城巍峨，傲立
+平野如绽花；
+复见纳国斯隆德，美不胜收
+。
+然吾族时命将尽，曼督斯殿
+堂亘古召唤再临。
 
-Even the deep delvings of Hadhodrond are tarnished with a darkness. Ah, how I long for these kingdoms to be restored, for life and light to come back - but I must depart for Tol Eressëa and Elvenhome in the West. I must leave quickly, before this last kingdom falls to the Enemy.
+纵是哈索德隆德幽深矿穴，
+亦遭暗影蚕食。
+啊！但盼诸城重光，愿生命
+与光明复归——
+然吾须西渡托尔埃瑞西亚，
+往赴精灵家园。
+趁此末代王国未陷大敌之手
+，当速离此土。

@@ -1,15 +1,39 @@
 # Karseius
 #
-#title:Observations
-#author:{name:gondor_male} of Gondor
+#title:一些观察
+#author:{name:gondor_male}
 #types:southron,umbar,gondor
 #reward
 #
-Hen-na-Charad:
-This day, the ninth of the fourth month, year 1078 of the Third Age:
+汉-那-卡拉德，
+于第三纪元1078年4月9日：
 
-It has been almost thirty years now since our beloved King Hyarmendacil defeated the Southron Princes and brought their lands into our realm. His gracious rule has been benevolent to the Haradrim so far, allowing many of their kind to keep their customs, beliefs, and worldly possessions.
+自从我们敬爱的国王击败了
+哈拉德诸亲王，将他们的土
+地纳入国土以后已经过去了
+近30年。他的尊贵统治向来
+对南方人非常仁慈，并且允
+许他们保留了自己的习俗、
+信仰和各地的财产。
 
-But despite his greatest efforts, the Southrons remain largely indifferent or even outright hostile to us. The tribesmen of the Harnen have proven especially unruly, but we shall subdue them in time. From my loyal Southron servants I have learned that a new custom has spread amongst the Haradrim. A greeting, to sully our Kingdom in secret: "May the Serpent strangle the tree" they whisper, yet only when alone.
+尽管付出了如此的努力，南
+蛮子对我们的态度仍然非常
+冷漠，甚至抱有露骨的敌意
+。哈尔能流域的部落尤为难
+以管理，不过假以时日我们
+也能够驯服他们。从我忠诚
+的南方仆人口中，我听说南
+蛮子人群中流行这一个新的
+习俗。他们私下里，经常小
+声用一句问候语暗中贬损我
+们的王国：“愿黑蛇勒死白
+树”。
 
-Silly Southrons! I will advise His Highness to proclaim that every tongue uttering those words shall be torn out! His Grace has given those savages enough time to adapt. They do not deserve his generosity, but his sword!
+愚蠢的南方人！我建议陛下
+，敢口出这句狂言的人的舌
+头都应该给割下来！他的仁
+慈已经给了这些野蛮人足够
+时间适应了，但是这些人根
+本就不配得到如此慷慨的统
+治。他们只配得上我们的刀
+剑！

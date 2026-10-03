@@ -1,22 +1,22 @@
-#title:Poem for Lórien
+#title:罗瑞恩之诗
 #author:{name:sindarin_male}
 #types:lothlorien
 #reward
 #
-From the West here she came;
-to this land she laid claim;
-as a bearer of light,
-come to save us from plight.
+昔日她自西方而来，
+于此林间奠定疆土。
+手中执掌光明之恩，
+拯救吾族危难之间。
 
-She brought with her a gift,
-bade the mellyrn rise swift;
-tall our trees grew, and fair
-as the light in her hair.
+携来她的恩赐之礼，
+瑁珑应声破土而起。
+高耸繁茂，华盖葱郁，
+如那发间无暇美丽。
 
-Ages passed in the woods of light.
-Many a song the Edhil sang;
-our realm reached its height.
-But ever West the Sea-bells rang.
+光明之森岁月流转，
+精灵之歌传唱不断，
+吾族国度盛极一时，
+西方海中钟声回荡。
 
-Now close draws the hour;
-farewell, our Dreamflower.
+离别之刻终有来时，
+别了——我们的梦中之花。

@@ -1,10 +1,11 @@
 #Written by Forten
 #
-#title:A Riddle
+#title:一个谜语
 #types:shire,bree,eriador,ruins,rivendell
 #reward
 #
-I have a tongue and a soul, and I
-am born in twins, but not alive.
+我有一个舌头和一个灵魂，
+生下来就是双胞胎，但是我
+却不是活的。
 
-What am I?
+我是什么呢？

@@ -1,21 +1,39 @@
-#title:Special
+#title:特殊
 #types:
 #
-This book is very special.
+这本书非常特殊。
 
-Why is that?
+为什么呢？
 #
 ###
 
 #
 #comments do nothing
-#
-Because it wasn't written by me in-game. It was generated from a text file, converted into the book data format.
+因为这本书不是我在游戏内
+写的，而是用文本文件生成
+的，转录成了书籍的数据格
+式。
 
-This was a real challenge to code! It was very difficult to design an algorithm which can take any text file and put it into book form, splitting it nicely into pages, ensuring no page has too much text, and ensuring no page ends halfway through a word. It took a great deal of revising and changing to perfect this and fix unlikely bugs.
+这可真是个有挑战的编程！
+设计能把任意文本文件转化
+成书的格式的算法相当困难
+，需要把文字精准拆分成分
+页，保证每一页中都没有过
+多的文字，也要确保两页之
+间不会切断单词。经过了很
+多轮复核和改动我才完善了
+代码并且修复了那些意想不
+到的漏洞。
 
-But this means we can now have books of lore generating in structures, using lore texts written by us or people of the community. We can have histories, poems, songs, journals of travellers, helpful in-game hints concerning rare features, scattered tales of terrible haunted ruins in the far North of the world...
+但这意味着我们现在可以在
+生成的建筑中发现书籍了，
+书中都是社区玩家们写作的
+原创文本。这些书里有历史
+、有诗歌、有歌谣、有旅行
+者的记录，有稀有特性的游
+戏内帮助提示，还有关于极
+北之地的恐怖遗迹的传说…
 
-This feature has been a very popular request, and I think it will lend a fantastic feeling of immersion to the world.
-
-So that is why this book is very special.
+这个功能一直以来都呼声颇
+高，我想它能为世界带来绝
+妙的生机感。
