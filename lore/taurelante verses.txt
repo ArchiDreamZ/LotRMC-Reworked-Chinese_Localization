@@ -1,99 +1,104 @@
 # Mevans
 #
-#title:Verses from the Taurelantë
+#title:陶瑞兰提之诗
 #author:Maeron Haradil
 #types:gondor,rivendell,umbar
 #reward
 #
-A part of the Taurelantë, or the Fall of the Taurethrim, as is told elsewhere in full by Maeron Haradil of the South-kingdom.
+陶瑞兰提之诗的一部分，又
+称《陶瑞斯的沦亡》；在南
+方王国，经迈隆·哈拉迪尔
+之口全文传唱。
 
 ...
 {choose:
-The trees were tall, the forest fair:
-through dappled leaves the sunlight shone
-in woodlands wide, and warmed the air
-in Sutherland, where few have gone.
-The call of beast and song of bird
-and fall of rain there sounded lone;
-no voices yet of Men were heard;
-no Elf there walked on grass or stone.
+丛林林木高耸，树木秀美
+阳光穿过叶隙，斑驳洒落
+照耀广阔林地，清风温暖
+太阳地间光景，人影寥寥
+只有野兽齐鸣，群鸟齐唱
+且听雨落声音，孤寂回响
+再无人类嘈杂，在此入耳
+再无精灵足迹，落草石上
 
-As living mountains misten-crowned
-the mighty trees which sought the sky
-like towers climbed, beyond the ground
-to Tarmenel, to heaven high.
-And at their feet, the spreading roots
-like arches loomed in twilight green
-among the ferns, where fallen fruits
-and leaves lay down in caves unseen.
-An elder wonder long ago
-ere sight of eye, ere word of mouth:
-the Spring of Earth remembered so
-in Haradwaith: in deepest South...
-/
-Then came the wandering hunter-folk
-out of the plains where lions run,
-come far from vale where first they woke
-in flight from dark, to seek the Sun.
-The Forest-men they named themselves,
-and Forest took them as its own,
-and raised them not unlike to Elves:
-their homes they wrought in trees full-grown
-on carven flets above the earth;
-in sight of Stars, and Moon's fair light
-they filled the forest days with mirth
-and songs unwritten sung by night...
-/
-In deeps of time, in ages long
-the Forest-men grew fair and wise,
-and wove their woodlands into song
-beneath the trees, beneath the skies.
-There birds they named, and beasts they tamed,
-and lore of all the forest learned,
-though never once a branch they maimed
-nor bough they felled, nor vine they burned.
+群山如有生命，云雾朦胧
+其间参天巨木，直逼穹苍
+如同高塔如云，盘旋直上
+直达塔门耐尔，耸入天堂
 
-For greater beings yet than they
-beneath the roofèd forest strode:
-old Mûmak, mighty walker grey;
-all Sutherland was his abode.
-And though a thousand years went by
-all memory to him remained;
-majestic still he marched on high:
-the lord of beasts, and yet unchained...
+而在足踵之下，树根蔓延
+隐入苍翠暮色，犹如拱门
+蕨丛草木深处，落果散布
+洞窟幽穴之内，落叶潜藏
+
+古昔时的奇迹，久远之前
+早至目光未见，口述不详
+大地迎来春天，如此美妙
+这就是哈拉德，深林南方
 /
-Then came the Númenóreans,
-the Dúnedain, the proud and grave;
-on Sundering Seas from western lands
-to Middle-earth they sailed the wave.
-To Haradwaith they roving came 
-in golden fleets, and southward turned
-beyond the bay of fated name,
-beyond the sands that ever burned,
-through rain, and roaring wind they passed
-where girdle round the Earth is thrown
-and still beyond, and came at last
-to distant shores of lands unknown.
-Alighting then beside a bay
-where wide a rushing river flowed,
-the Westmen cast their sails away
-and out upon the green they strode...
+然而游猎民族，不期而至
+他自平原而来，狮群驰骋
+远离苏醒之地，原初山谷
+只为逃离黑暗，寻觅太阳
+自称森林之民，改头换面
+森林视其如子，呵护如常
+养育滋润他们，几近精灵
+参天古木之上，筑成居所
+雕琢树台为家，高悬林霄
+那里星辰月光，尽收眼底
+那里无谱之歌，夜下传唱
 /
-Then came the Ring-lord, tall and proud
-in raiment fair, with treasures gold
-and gleaming gems; with woven cloud
-and silken rain; with malice cold.
-And to the ruling Forest-king
-a gift he gave: a band of might,
-then bade the lord take up his Ring:
-and forest fair fell under night...
+在那时光深处，年代漫长
+森林的子民们，美丽智慧
+为他们的林地，织入歌谣
+流转树荫之内，苍穹之下
+于此命名飞禽，驯服走兽
+森林中的奥秘，心领神会
+他们从未伤损，一根枝桠
+树冠藤蔓常在，郁郁苍苍
+
+因为伟大生灵，栖息此地
+森林的华盖下，阔步而行
+威严的灰巨兽，古老猛犸
+太阳地所及处，皆为栖所
+纵使千年岁月，沧海桑田
+猛犸象的记忆，未曾褪色
+他庄严地行进，昂首迈步
+身为百兽之主，自由无羁
 /
-Yet in the hearts of Westernesse
-the Darkness too lay brooding long,
-and kindling in them great unrest
-woke mighty pride, and war-lust strong.
-Their golden sails they raised once more
-but over Sea now conquering came;
-no wisdom fair their ships now bore,
-but steel, and whip, and wicked flame...
+努门诺尔之民，踏足丛林
+杜内丹的他们，高傲庄重
+来自西方故土，扬帆启航
+穿越隔离之海，离开西方
+目标中洲大地，乘风破浪
+又来到哈拉德，随波逐流
+乘坐金色船队，辗转而来
+越过那片海湾，命运之地
+越过那片沙漠，永恒燃烧
+越过骤雨惊涛，狂风怒号
+越过世界之带，环绕大地
+旅途从未中断，直到终点
+直到陌生海滨，遥远彼岸
+来到一处海湾，抛锚下船
+此处大河宽敞，奔流不息
+西方之人上岸，抛下船帆
+登临绿色大地，踏步向前
+/
+然而戒主降临，高大骄矜
+身披华美衣袍，金光闪闪
+宝石点缀其间，轻盈如云
+流雨的衣装下，恶念冰寒
+他为森林王者，奉上献礼
+一枚力量戒环，潜藏伟力
+他令君王戴戒，号令四方
+自此美丽森林，堕入长夜
+/
+然而努门诺尔，内心深处
+黑暗潜伏已久，暗中滋长
+胸中躁动盘踞，欲火重燃
+傲慢之恶再起，战意昭然
+扬起金色船帆，再次出航
+此番越海而来，只为征服
+智慧之美不再，船舱之内
+唯有铁甲皮鞭，邪恶之炎
 }

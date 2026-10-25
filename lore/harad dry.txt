@@ -1,17 +1,34 @@
 #Written by Thaumablazer
 #
-#title:Stuck Under the Sun
+#title:困在烈日下
 #author:{name:nearHaradrim_male}
 #types:harnennor,southron,umbar,nomad,gulf
 #
-I and my company have been stuck out in this accursed desert for many weeks.
+我和我的小队被困在这该死
+的沙漠里好几个星期了。
 
-I await orders for a change in post, and yet I receive none. Our supply of waterskins runs ever lower, and my partner {name:nearHaradrim_male} collapsed from the heat a few days ago. He has recovered somewhat now, but I doubt he will be comfortable for long. I, too, have begun to suffer the heat.
+我等待着调换驻地的命令，
+然而我什么也没收到。我们
+的水袋供应越来越少，我的
+搭档{name:nearHaradrim_male}几天前因
+高温倒下了。他现在稍微恢
+复了一些，但我怀疑他撑不
+了多久。我也开始遭受高温
+的折磨了。
 
-Have they forgotten us? Are we doomed to die under the blazing sun, with nobody to remember who we were, or that we were ever here?
+他们把我们忘了吗？我们注
+定要死在炽热的太阳下吗？
+没有人记得我们是谁，或者
+也没有人记得我们曾困在
+这里？
 
-Is this what our doom has come to? Our lives to be slowly, painstakingly torn from our bodies; to be left as dried corpses, to rot in the sand?
+这就是我们的末日吗？我们
+的生命被缓慢地、痛苦地从
+身体里剥离；然后变成干尸
+留在这荒野，在沙子里
+腐烂？
 
-Is this the end for me?
+这就是我的结局吗？
 
-I cannot bear to think any further about it!
+我无法忍受再继续想
+下去了！

@@ -1,15 +1,39 @@
-#title:A Letter from Elrond to Gil-galad
-#author:Lord Elrond, Herald of the King
+#title:一封埃尔隆德致吉尔-加拉德的信
+#author:埃尔隆德领主，国王的先锋
 #types:lindon,rivendell
 #
-Elrond son of Eärendil to Gil-galad son of Fingon, may the Valar keep you and no shadow fall upon the Fair Realm. The news from Eregion is not good.
+埃雅仁迪尔之子埃尔隆德，
+致芬巩之子吉尔-加拉德：
+愿维拉护佑您的美丽国度永
+不受阴影笼罩。埃瑞吉安传
+来了悲痛的讯息。
 
-Our fears have been realised, for the Shadow is led by a servant of Morgoth: his lieutenant Sauron the Abhorred, formerly known to us as Annatar Aulendil. He has swept into Eregion, and sacked the Gwaith-i-Mirdain. Celebrimbor was captured and put to death.
+我们的担忧已然成真，因那
+魔影的首领正是魔苟斯的仆
+从：他的副官“憎恶者”索
+隆，曾被我们称为奥兰迪尔
+安那塔。他的军队大举入侵
+埃瑞吉安，亵渎了格怀斯-
+伊-弥尔丹，身陷敌手的凯
+勒布林博亦不幸罹难。
 
-We few who remain owe our escape to the valiant assault by the Dwarves of Hadhodrond and Celeborn-o-Lórien. I have led the rest of the host northward in retreat, and in hopes of finding a hidden refuge.
+唯有哈索德隆德的矮人以及
+凯勒博恩麾下的罗瑞恩精灵
+前来救援，我们少数同胞才
+得以逃出生天。我目前正带
+领部队的余部向北方撤退，
+但愿能在彼处寻得一处隐蔽
+的暂居之所。
 
-But Sauron has turned from us, sending but a small force to harry our movement. He now marches with haste across Eriador - towards the Last Fair Realm.
+然而索隆的注意力已经不在
+此处，他仅派遣了小股部队
+骚扰我们的行程；而他的主
+力正穿过埃利阿多疾驰——
+向最后的美丽国度进军。
 
-I advise you to send word to Númenor and muster your strength, aran-nin.
+我恳请您向努门诺尔王国传
+达讯息，同国王召集力量共
+同对敌。
 
-I Manwë berio le nu Eru. May Manwë keep you under the One.
+愿曼威护佑您于一如庇护之
+下。

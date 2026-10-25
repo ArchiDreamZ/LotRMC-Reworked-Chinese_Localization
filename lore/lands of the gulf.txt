@@ -1,16 +1,73 @@
 # Karseius
 #
-#title:The Lands of the Gulf
-#author:Parveldir of Gondor
+#title:海湾之地
+#author: 刚铎人帕维迪尔
 #types:gondor,rivendell
 #reward
 #
-To us, the lands of Harad are shrouded in mystery. The days of the four Ship-kings have long since passed, and with them has passed most of our lore about the far southern lands. Only fragments remain of what the great scholars wrote before me.
+于我们来说，哈拉德的土地
+充满着神秘色彩。随着四位
+船王的时代早已过去，我们
+对南方遥远土地的传闻记载
+所剩无几。前人的大学者们
+留下的文字记录，也只残余
+了只言片语而已。
 
-While rummaging through the old libraries at Pelargir, I found an ancient scroll which told of the farthest of the Southron realms, known in their tongue as Khopazûl: the Eastern Gulf of Harad. The Men of that land are said to be the fiercest and cruelest of all the Haradrim. It is said that hard times grow hard Men, and nowhere are the times harder than in the Gulfen lands, for those Men are born for one purpose only: war.
+在搜寻佩拉基尔的老图书馆
+的时候，我发现了一本记载
+了遥远南方王国的古代卷书
+。当地人称那里为寇帕祖尔
+，坐落于哈拉德东部海湾附
+近。那里的人据说是整个哈
+拉德地区最凶悍、也是最残
+暴的。要是说艰难的时代孕
+育坚强的民族，那么多么艰
+难的时代和海湾地区相比都
+显得逊色——这里的人生存
+的唯一目的，就是战争。
 
-The scroll tells that those lands are ruled not by a King, but by many quarrelling Chiefs and Princes, competing for power. Some of these command only a few villages, while others rule mighty cities. If the ancient scroll is to believed, the greatest of their warriors ride monstrous grey beasts larger than a house into battle, which they capture in the unknown lands of the uttermost South.
+卷书记载了那里并非由一位
+国王统治，而是由众多酋长
+与亲王们把持，互相之间争
+权夺利、剑拔弩张。各个势
+力大小不一，从只有几个村
+子的小部落到统领数个大城
+市的国家都有。如果卷书所
+言不假，他们中最强悍的战
+士在战场上会骑乘灰色的庞
+大怪兽。他们从极南方的土
+地上捕捉来这些巨兽，体型
+比战马都更大。
 
-In his infinite wisdom, our great King Hyarmendacil the First did not deign to conquer the Gulfen lands. Though he subdued the Southrons of the Harnen and the Harfelais, he demanded only a yearly tribute from the Men of Khopazûl. The great deserts of Harad proved to be their salvation, as King Hyarmendacil knew that crossing the burning sands would be too costly. But ever since we lost our southernmost holdings, the tributes have ceased and we have heard no word from the mysterious lands of the Eastern Gulf.
+我们的先王哈尔门达奇尔一
+世秉承他无上的智慧，当初
+就已决定不去征服海湾地区
+。尽管他让哈尔能以及哈拉
+德海岸的部族臣服了，对于
+寇帕祖尔人、先王则要求他
+们只需交纳岁贡即可。哈拉
+德大沙漠拯救了他们，国王
+哈尔门达奇尔知道穿越那片
+灼热的荒漠绝非易事。然而
+，在我们失去对南方边境据
+点的控制以后，进贡就停止
+了，自此我们再也没有听闻
+过关于神秘的东部海湾的消
+息。
 
-Do those ancient cities still stand, with their Chiefs and Princes still quarrelling, or have they been buried by the endless sands of the South? We may never know. But of late the South Wind brings fearsome rumours. Men speak of great hosts of Southron warriors, massing beyond the Harnen, as if readying themselves to march upon our lands. Some rumours speak also of great beasts marching alongside the Men of Darkness. If these tales are true, we can only hope that these are not the Men of Khopazûl come out of the forgotten past upon their great beasts of war.
+那些古老的城市仍然矗立吗
+？他们的酋长与亲王还在纷
+争？还是说这些历史已经为
+南方无尽的沙漠所吞噬？我
+们也许永远也没法知道了。
+但是近来，南边传来了一些
+不祥的流言，大群的南方士
+兵成群结队地穿过哈尔能河
+，似乎是准备向我们的土地
+进军。还有传言称这些黑暗
+人类还带着大型野兽一同行
+进。如果这些消息是真的，
+我们只能祈祷那不是沉寂在
+我们历史里的寇帕祖尔人，
+祈祷那不是他们的战争巨兽
+重回战场了。

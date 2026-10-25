@@ -5,4 +5,25 @@
 #types:rhun,nomad,gulf
 #reward
 #
-{name:rhun_male}, you mindless buffoon! I cannot believe you have persuaded me to do this. "Let us go South, my brother! Let us hunt, and make our fortune from the skins of the Southron beasts!" you said. "It will be so easy," you said. But what have I found here? Nothing but misery! It has taken me months to cross the accursed desert. Without those stinking sand-wanderers, I would have died of thirst! And now, I am in this land of savages, who sacrifice their sick and their old like beasts upon their altars! Yes, I bought some fine furs and skins on their markets, but I swear to the Great Eye, Brother, I shall not even dream of making this journey again! If I make it back to {choose:Rhúnost/Atalak/Taragal/Karslan/Karanoda} alive, you will have to pay me double!
+{name:rhun_male}，
+你这个不长脑子的蠢货！你
+竟然怂恿我来干这种事！不
+是你说的吗，“兄弟，我们
+去南方吧，去那边打猎南蛮
+子的野兽，兽皮能赚一大笔
+钱”？你还说“一点也不难”！
+但是我在这地方都遇到了啥
+，全是糟心事！穿过这该死
+的大沙漠都花了我几个月的
+时间，要不是这些臭烘烘的
+游牧民，我估计早都给渴死
+了！现在我又撞进了这群野
+蛮人的地盘，一群拿老弱病
+残当牲口在祭坛上献祭的蛮
+子！不错，我确实在他们的
+集市里买到了些不错的毛皮
+…但是兄弟，我向大魔眼发
+誓再也不想来这种鬼地方了
+！哪天我要是能活着回
+{choose:鲁恩诺斯特/阿塔拉克/塔拉加尔/卡尔斯兰/卡拉诺达}，你得付给我两
+倍的报酬！

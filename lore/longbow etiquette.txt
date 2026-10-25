@@ -1,25 +1,93 @@
 #Written by Dragonovith
-#title:Longbow Etiquette
-#author:Asger of Redwater
+#title:长弓之礼节
+#author:红水河的阿斯格
 #types:dale
 #reward
 #
-Drinking in a tavern in the city of Dale, I met a hairy man called Gunnar and his company of forty archers, strong men who sell their bows to lords and nobles: men whose only trade is in war.
+我以前在河谷镇的一家酒馆
+畅饮时，遇到过一位名叫甘
+纳尔的毛发浓密的男人，随
+同他的还有一队四十人的弓
+箭手。这些精壮的士兵向领
+主和贵族提供佣兵服务谋生
+，而只有战争中他们才有生
+意可做。
 
-That man Gunnar, who, I noticed, was a very proud fellow, offered to hire me as his company's chronicler when I told him that writing was my trade. I was supposed to record in text the deeds and stories of his men. I promptly accepted; I needed the coin!
+而这位甘纳尔，我发现他是
+个相当豪放的人物。当我告
+诉他自己是写作谋生时，他
+愿意雇佣我作为随军的编年
+史官，职责是将他的部下的
+英勇事迹和故事记录成文字
+。我毫不犹豫地接受了——
+因为我真的需要银币！
 
-For many days and nights I followed that merry band of mercenaries. Every single one of them was a hardened archer, trained since a young age. They wielded longbows made of firm, yet flexible, wood - crafted by themselves - which were just long wooden sticks most of the time, because, as Gunnar explained to me, they remove the bow string when they don't need to use the bow, to preserve the wood from bending.
+很多个日夜我都跟随着这群
+愉快的雇佣军团行动，他们
+自幼时起就开始接受训练，
+每一位都是老练的弓箭手。
+他们使用的是自己用坚固而
+柔韧的木材制作的长弓，虽
+然这些弓大部分时间看上去
+只是一些长木棍而已。甘纳
+尔告诉我，他们不需要使用
+弓的时候会拆下弓弦，这样
+木材就不会弯折。
 
-My first battle, which I only watched from afar, happened two weeks later, when we were travelling close to the southern border of the Kingdom of Dale. Crooked and evil creatures - Orcs! - coming up from the savage lands of old Rhovanion were pillaging and raiding the countryside.
+我参与的第一场战斗，在两
+个星期以前那时我们途径河
+谷邦王国的南部边界附近，
+虽然当时只是从远处旁观的
+。那些畸形又邪恶的怪物，
+奥克，从老罗瓦尼安的荒凉
+地带袭来了，肆意掠夺着村
+庄。
 
-Our presence was noted by the scared townsfolk. Not long thereafter we were found by armed men loyal to the local lord, and so we were brought to his castle. That lord, as you can imagine, had an urgent need for fighting men. The noble - a certain Lord Hakon - was a fat and unpleasant man, known by the local folk as an abusive tyrant. But when he threw a weighty bag of coins at our feet, Gunnar and his archers promptly pledged their service to him!
+吓坏了的镇民发现了我们的
+到来，于是很快我们便和忠
+于本地领主的武装士兵会合
+，加入了这场战斗。这位领
+主大人，可以想见，他一直
+急需战斗人员。他被称作哈
+康大人，是个肥胖而其貌不
+扬的男人，一个本地人心中
+嗜虐的暴君。然而当哈康把
+一大袋银币扔到我们脚边的
+时候，甘纳尔和他的弓箭手
+们马上向他效忠了。
 
-Accompanied by one hundred spearmen, we followed the smoke which was coming from a nearby estate, and set up on a hill overlooking the farm and its fields. There we met the Orcs.
+随同一百名矛手，我们顺着
+附近庄园的浓烟方向出发，
+并在丘陵上扎营观察周围的
+农庄和田地。就在那时，我
+们遇到了奥克。
 
-Those savage creatures had been raiding the granaries and making off with the cattle, but they soon noticed our coming, and formed a clumsy battle line. Slowly they marched uphill, all the while shouting insults in their grotesque voices.
+这些野蛮的生物本来正在掠
+夺谷仓、抢夺牛群。但当他
+们发现我们以后，就排成了
+蹩脚的战线，朝着我们的丘
+陵上快步冲来，一路上充斥
+着他们怪异声音组成的刺耳
+骂声。
 
-But the archers were ready, and Gunnar gave the order, and so a torrent of long wooden shafts with bright white feathers and steel tips flew to the sky. Ere they began to fall, a second volley was flying from the archers' bows.
+但我们的弓箭手已经准备就
+绪了。甘纳尔一声令下，无
+数钢制箭头、木棍箭身、羽
+毛尾巴的箭应声而出，飞向
+空中。还未等箭雨落下，弓
+箭手们又进行了第二轮齐射
+。
 
-How terrible was that rain of arrows! They pierced flesh, mail and leather with ease, like hot knives into a slab of lard! In seconds the Orcs' formation was broken, and, whining of fear, the survivors turned and fled, running back to their stinking caves in the South.
+这箭雨别提有多厉害了！他
+们轻易就能刺穿血肉、击穿
+锁甲皮革，不亚于热刀切开
+猪油那样简单！奥克们的阵
+型瞬间支离破碎，幸存的奥
+克在恐惧的哀嚎中掉头逃跑
+，滚回他们南方臭烘烘的洞
+穴里去了。
 
-In no time at all, it seemed, we were back on the road - seeking other troubled lands, and new rich lords with need of fighting men.
+没过多久，我们的旅程就再
+次出发——向着别的多事之
+地，启程寻找新的需要战士
+的富饶领主了。

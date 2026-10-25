@@ -1,14 +1,52 @@
 # Karseius
 #
-#title:On the Serpent Guard
-#author:Harhael of Gondor
+#title:关于黑蛇守卫
+#author:刚铎人哈尔海尔
 #types:gondor,rivendell,umbar
 #reward
 #
-While studying the Men of Near Harad, my good student, you will sooner or later stumble across tales of the so-called "Serpent Guard". Indeed, once they were a powerful force among the Southrons, but they have faded away since our glorious conquest of the Harad.
+各位学生，在研究近哈拉德
+的人类时，你们或早或晚都
+会接触到关于所谓“黑蛇守
+卫”的故事。确实，他们一度
+是南蛮子当中一股强大的势
+力，但是如今已经在我们伟
+大的哈拉德征服以后淡出了
+历史舞台。
 
-These men were no simple guard, oh no, but in truth a warrior-caste which permitted only very few to serve. Fascinating as it may sound, these men owed no allegiance to a single city; rather, they were dispersed amongst the many Princes and noblemen, often serving as royal guards, men-at-arms, or advisors.
+这些人并非是单纯的守卫，
+而实际上是一个近卫阶层，
+只有极少数人有机会任职。
+正如听起来那般诱人，这些
+守卫也不是为了某一个城市
+效忠，而是分布在诸多亲王
+和贵族之间，常担任亲卫、
+战士或者顾问的角色。
 
-How the Serpent Guard managed to survive despite the endless infighting among their own people I know not, but in time they did grow wealthy and powerful. Indeed it seems that their guild had a hand in unifying the Southron tribes against the glorious armies of our King Hyarmendacil... but it was in vain. For the brave men of Gondor crushed the Southron savages at the Battles of the Harnen and the Athrassir, before marching on to sack the great city they called the Eye of Harad.
+黑蛇守卫是如何在哈拉德部
+族的无休止内部争斗中生存
+下来的，我无从知晓，不过
+随着时间推移他们逐渐积累
+了财富和权力。甚至可以说
+，似乎是他们参与领导了哈
+拉德部落间，让他们团结起
+来抵抗我们国王哈尔门达奇
+尔光荣的军队…但这终究是
+徒劳的。勇敢的刚铎人在哈
+尔能和阿斯特拉希尔的战斗
+中粉碎了南方蛮族的军队，
+紧接着就攻占了他们称之为
+哈拉德之眼的大城。
 
-And it was there, within the walls of the Eye, where our host slew the last of our foes. Among them was the sole remaining chief of the Serpent Guard, who, it is told, died a coward's death. After the victory, the amassed riches of the Serpent Guard were confiscated, and what few men remained of their caste were disbanded. The end of their Guard marked the dawning of a new age for the Southrons, under the enlightened rule of the Kingdom of Gondor. Eternal glory to the lands of the White Tree!
+于是，在哈拉德之眼的城墙
+之内，我们的军团剿灭了最
+后一批敌人。其中，就有黑
+蛇守卫的末代首领——据说
+，他像个懦夫般死去了。我
+们胜利后，查没了黑蛇守卫
+所积累的庞大财富，同时解
+散了这个阶级的残党。黑蛇
+守卫的终结，标志着南蛮子
+在刚铎王国的英明统治下一
+个新时代的开端。荣耀永远
+属于白树之国！

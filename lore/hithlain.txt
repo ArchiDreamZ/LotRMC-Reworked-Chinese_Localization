@@ -1,8 +1,25 @@
-#title:On Hithlain
+#title:希斯莱恩
 #author:{name:sindarin_female}
 #types:lothlorien
 #reward
 #
-Long have our kin twined the fibres of these woods into Hithlain. The craft is only known to a few among us Galadhrim. Yet it is worn by every Elf here, from the bowstrings and cloaks of our warriors to the clothing of our Lord and Lady.
+长久以来，我们的亲族擅长
+于编织林中的草木制作希斯
+莱恩，这一技术在加拉兹民
+中只有为数不多的精灵方可
+掌握。然而，这材料为每一
+位此处的精灵所运用，从射
+手的弓弦、到战士的斗篷，
+以至于领主和女士们的服饰
+也出自其手。
 
-Of all its many uses, hithlain comes to be most helpful as a rope. It can bear more than a single Elf, hold great weights, and it helps keep our telain sturdy in the boughs of the mellyrn. Rare indeed it is that we gift our most prized craft to the Elf-friends among mortal Men, though when we do, it is sure to aid them greatly in many needs.
+在希斯莱恩的诸多用途之中
+，最有价值的莫过于绳索。
+这种绳索负担一位精灵尚且
+有余，能够承载重物，更让
+我们的塔蓝能够牢固固定在
+瑁珑树冠之上。我们极少将
+如此珍贵的造物赠予凡人，
+不过倘若得到这一礼物的时
+候，他们必定能在各种方面
+获益颇多。

@@ -1,16 +1,80 @@
 # Karseius
 #
-#title:The Two Sisters
-#author:Kurush the Learned
+#title:两姐妹的传说
+#author:学者库茹斯
 #types:southron,umbar,gondor
 #reward
 #
-Whoever travels our lands hears the tale of the Two Sisters: a tale of war, blood and betrayal. The Sisters are old, so old that not even our elders remember when they were born. Yet that day, whenever it was, marked the beginning of their eternal quarrel, which in the end might doom us all.
+只要经过我们这里的旅人，
+都会听说两姐妹的故事，一
+个讲述战争、鲜血和背叛的
+故事。两姐妹的故事非常古
+老，古老到我们的长者都记
+不清他们是何时出生的。但
+是，从她们出生的那一刻起
+，她们争吵便永不停歇，结
+局甚至可能会给我们每个人
+带来毁灭。
 
-At the shores of the great lake stands She, the Northern Sister; the Eye of Harad; the fabled city of an unbroken chain of Princes; the mighty city of Ain an-Ahâr. From its midst rises a mighty tower, overlooking the valley that it rules. It is here, in Ain an-Ahâr, where the best of our Champions are trained, and the fiercest of our warriors commanded. 
+在大湖的湖畔，是她，北方
+的姐姐所在之处。她就是哈
+拉德之眼，亲王世代沿袭的
+著名城市，宏伟之城艾因·安
+-阿哈。城中坐落着一座高塔
+，监视着它所统御的广袤峡
+谷。正是这里训练了我们最
+精锐的勇者，集结了我们最
+勇猛的战士。
 
-And not far from there, where the Athrassir meets the Haecharnen, stands She, the Southern Sister; the city of a thousand treasures; guardian of merchants and artisans; the glorious city of Ajtiaz an-Ahâr. Her bustling markets draw Men from far and wide, seducing many to spend their last savings on her numerous pleasures. There, rare and exotic goods from places unknown to most are purchased, to adorn the necks and palaces of those of the noble blood. It is little wonder that even the infamous Queen Barûphel was known to scour the city - to the woes of her current suitor's purse.
+不远处，阿斯特拉希尔河与
+哈尔查尔能河交汇的地方，
+是她，南方的妹妹所在之处
+。她就是珍宝云集、商人和
+工匠的守护者，光荣之城阿
+伊提亚兹·安-阿哈。来自五
+湖四海的人们聚集到她熙熙
+攘攘的市场里，许多人在她
+无尽的财富的诱惑下倾家荡
+产。那里买卖着不为人所知
+的遥远地方来的奇珍异宝，
+只为装点贵族的首饰和宫殿
+。就连那个臭名昭著的女王
+巴茹婓尔据说也曾来到这里
+四处搜刮珍宝，让她的追求
+者们都掏空了腰包。
 
-Caught in their eternal rivalry, the two Sisters have long fought one another for wealth and power, slowly bleeding our lands and our people. Yet, their struggle has always remained unresolved, for neither Sister could overpower the other. Through the ages Ain an-Ahâr has sent her mighty hosts into battle countless times; yet her Sister's treasury has never failed to summon foreign armies to defend her gates. And Ajtiaz an-Ahâr has besieged her Sister no less often; yet the moral and loyalty of bought Men has always failed upon meeting with her Sister's impregnable walls. 
+在永恒的对抗之中，两姐妹
+为了财富和权力的长久争斗
+逐渐消耗了我们土地和族人
+的生命力。即便如此，这争
+斗也从未停止过，因为她们
+谁也无法在实力上压倒对方
+。几个纪元以来，艾因·安-
+阿哈一次又一次地派出她强
+大的军团兵临城下；而阿伊
+提亚兹·安-阿哈则凭借她财
+富一次又一次地召来了外国
+的军队保卫城池。阿伊提亚
+兹·安-阿哈围困姐姐的次数
+也不逊色，然而雇佣兵低劣
+的士气和忠诚，无法帮她击
+穿对方坚不可摧的城墙。
 
-As it is often with siblings, their quarrel only halts when something from outside forces it to. When the Northlings invaded our lands, the two cities rallied their forces together. When the realm of Umbar first arose, only the two cities' combined call to arms could force a truce. And now, that time has come again. Lord Sauron has risen in Mordor, and under his vassalage, the people of the Sisters are commanded to march northwards, side by side. Will they be victorious? Will they crush the Men of Gondor, and right the ancient wrongs? It does not matter; neither victory nor defeat will end their quarrel, their eternal bloodshed. Neither can live while the other survives.
+不过，正如兄弟姐妹之间常
+有的那样，当外敌临近时，
+她们终于被迫放下了争斗。
+当北方人入侵我们的领土时
+，两座城邦一同集结了部队
+抵抗；当乌姆巴尔王国兴盛
+时，只有两城的共同动员能
+为她们赢得停战的和约。现
+在，这样的时代又来临了。
+索隆大人已在魔多崛起，两
+姐妹正在他的旗帜下一起向
+北方并肩行进。她们能获胜
+吗？她们能粉碎刚铎人的国
+度，改写历史的错误吗？这
+不重要——成败都不能为她
+们无尽的争执和杀戮画上句
+号。只要其中一个姐妹还活
+着，另一位便永不得安宁。

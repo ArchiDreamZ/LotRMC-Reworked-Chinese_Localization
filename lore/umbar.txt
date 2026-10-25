@@ -1,12 +1,25 @@
-#title:Umbar
-#author:{name:nearHaradrim_male} the Learned
+#title:乌姆巴尔
+#author:大学者 {name:nearHaradrim_male}
 #types:harnennor,southron,umbar
 #reward
 #
-Umbar is the proudest of our realms. A mighty ship-haven it is, built long ago by our ancestors who came from over the Sea. A great fortress it is also, with a palace full of treasure and wisdom; and a bustling city, where merchants from all over the world come to sell their goods.
+乌姆巴尔是我们国度中最壮
+丽的地方。作为一个宏伟的
+海港，乌姆巴尔是我们渡海
+而来的先祖古时建成的。它
+也是一个坚不可摧的堡垒，
+其中的宫殿里遍布珠宝、满
+溢智慧；它更是一个生机勃
+勃的城市，世界各地的商人
+均来此交易商品。
 
-Once, long ago, the cruel Men of the North claimed dominion over Umbar. Then our forefathers took up the sword, and marched to war: and though with much grief and loss of life, the Havens were returned to us.
+许久之前，北方的残暴人类
+曾征服了乌姆巴尔。我们的
+祖先揭竿而起，步入战场；
+他们付出了惨痛的代价与无
+数献血，最终将海港夺回了
+我们的手中。
 
-Umbar now stands in our control, as it has for centuries. Now our enemies have grown weak, and we strong, with the aid of Lord Sauron. We fear the Northmen no longer; indeed, they fear our might - as they rightly should!
-
-I hope that one day I shall have cause to journey to the Havens of Umbar, and behold her majesty and glory with my own eyes.
+我希望有一天，我也能有幸
+旅行到乌姆巴尔的港口，一
+睹她的威仪与荣光。

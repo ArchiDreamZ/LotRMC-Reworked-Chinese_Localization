@@ -1,14 +1,60 @@
-#title:Jewels among the Sands
-#author:{name:nearHaradrim_female} of Poros
+#title:沙漠中的明珠
+#author:波罗斯的{name:nearHaradrim_female}
 #types:harnennor,southron,umbar,gulf
 #reward
 #
-The burning sands of the desert are a place no traveller should tread. We of the Sunlands are no strangers to harsh and unforgiving climates, but the desert is too much, even for us.
+炎热的大沙漠是个任何旅行
+者都不应该涉足的地方。我
+们太阳地的人对严酷的气候
+并不陌生，但是沙漠生存即
+使对我们来说也太过苛刻。
 
-I pity those who have cause to journey across the inner deserts. Merchants and messengers, mostly. They pack their provisions, venture away, and if the Mighty One wills it, they return - though parched and burned by the heat. But some who make that journey do not come back to us.
+我同情那些因为各种原因不
+得不横穿沙漠的人，他们中
+大多数是批发商或者信使。
+他们需要准备好口粮，长途
+跋涉；如果上面的人需要的
+话，他们还必须原路返回
+——再次穿越那片干燥而酷
+热的沙漠。然而，也有一些
+人没法从旅途中活着回来。
 
-Though, among the peoples who dwell near to the desert, there exists a curious legend. They speak of some few lucky ones, who, long thought perished in the burning sands, instead returned alive to tell what they found therein. These fortunate ones say that even as they wandered, parched and dazed, close to death, they came upon a place of blessed life. Wondrous places they speak of, where cool water springs, and living trees grow, even beside the very dust of the desert... these are the jewels among the sands, which in the trader-tongue are named Oases.
+不过，在居住在沙漠边缘的
+人那里流传着一个传说。他
+们说有极少数的幸运儿，人
+们本以为他们在沙漠里早就
+丢掉了性命，但是后来却活
+着回来了，讲述他们在沙漠
+中发现的奇景。据这些幸运
+的人所述，他们本以为口干
+舌燥、神志恍惚、奄奄一息
+地游荡的时候，却发现了生
+机勃勃的福地。那是他们口
+中的奇迹之地，尽管周围都
+是尘土飞扬的沙漠，那里却
+有清凉的泉水，郁郁葱葱的
+树木…那里就是沙漠中的明
+珠，商人们称之为“绿洲”。
 
-I do not know whether to believe these stories. I have never met anyone who has seen an Oasis with their own eyes. They seem to me too good to be true. Perhaps they are old, confused folk-tales, from times long ago, when waters flowed in courses that now lie dry and dead. Perhaps they are empty lies, comforts made for grieving families whose men ventured into the desert and were never seen again.
+我不知道应不应该相信这些
+传闻，因为我从未见过有人
+亲眼目睹过绿洲，这传说太
+过美好，以至于不太可信。
+也许那只是古老而模糊的民
+间传说，况且那时候沙漠中
+流过的河流还没有干涸；也
+许那只是空口无凭的谎言，
+安慰那些在沙漠中失去亲人
+的家庭。
 
-But my dear friend, {name:nearHaradrim_male}, has lately been speaking much of Oases. He has become quite obsessed. It seems that he intends to venture out into the desert, and go in search of an Oasis. This seems madness to me, and I tell him he will surely die; but he dismisses my concerns. If he should make that journey, I fear it may be the last I see of him...
+但我的一个朋友，
+{name:nearHaradrim_male}，
+最近经常谈起绿洲的事情，
+看起来都有些入迷了。他似
+乎想要到沙漠中探险去寻找
+绿洲。在我看来，这简直就
+是疯了，我告诉过他几乎不
+可能活着回来，但是他根本
+听不进去。如果他真的启程
+的时候，我担心那就是见他
+的最后一面了…

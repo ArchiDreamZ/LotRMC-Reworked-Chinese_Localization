@@ -1,19 +1,46 @@
 # Karseius
 #
-#title:To Abadir, Prince of Khopazûl
+#title:致寇帕祖尔亲王，阿拜迪尔殿下
 #author:{name:nearHaradrim_male}
 #types:harnennor,southron,umbar,gulf
 #reward
 #
-Tawînen:
-This day, the nineteenth of the seventh month, year 1050 of the Third Age:
+塔维能，于第三纪元
+1050年11月19日：
 
-My {choose:most exalted/most beloved/most gracious/most excellent} Prince, your {choose:true servant/loyal servant} brings urgent tidings from the West.
+{choose:至高无上/最敬爱/最高贵/最尊贵}的亲王殿下，您
+最{choose:忠心/忠诚}的仆人从西方带来了
+紧急消息。
 
-Not two days past, Ciryaher of Gondor conquered Ain an-Ahâr, and thus all the western coastlands are now his by claim of might. I learned that Ciryaher declared himself King of all the South, and is consolidating his forces in the city of Umbar. According to my spies, he intends to continue his conquests soon, and pursue further regions to the East and South.
+就在不到两天前，刚铎的奇
+尔雅赫尔攻占了艾因安-阿哈
+，现在他们已经征服了全部
+的西海岸地区。我听闻到奇
+尔雅赫尔自称是全南方之王
+，而且正在乌姆巴尔城附近
+集结部队。据我们的线人报
+告，他接下来很快将会继续
+出兵征服东方和南方更远的
+地区。
 
-The Adûnâim host is not as large as we feared, yet their strength and cruelty is beyond all our experience. As your true servant, I strongly advise you not to declare war against Ciryaher. I do not believe we could defeat his armies in open battle... even if all our Mûmakil were loosed upon the field. Instead, if you offer him tributes of gold and ivory, he might leave our lands alone, so we could remain at peace.
+阿督耐人的部队人数上不及
+我们所担忧的规模，但是他
+们的战力和残暴程度远超我
+们想象。作为您的忠仆，我
+强烈建议您不要向奇尔雅赫
+尔公开宣战。我担心我们的
+部队很难在正面冲突中和他
+们对抗…即使在战场中动用
+我们所有的猛犸象也是如此
+。不过，如果您愿意向他提
+议黄金和象牙作为贡品，他
+可能会停止进攻我们的领土
+，这样我们可以继续维持和
+平。
 
-I continue to disguise myself amongst the royal interpreters. I hope to bring you better news soon, my Prince.
+我将继续伪装成他们的王室
+翻译潜伏下来。愿早日能为
+您带来更好的消息，亲王殿
+下。
 
-I remain your most loyal servant.
+我始终是您最忠诚的仆人。

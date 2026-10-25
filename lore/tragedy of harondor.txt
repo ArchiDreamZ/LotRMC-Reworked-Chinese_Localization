@@ -1,16 +1,71 @@
 # Karseius
 #
-#title:The Tragedy of Harondor
-#author:Athil
+#title:哈隆铎的悲剧
+#author:阿希尔
 #types:harnennor,southron,umbar,nomad
 #reward
 #
-It is a tale known to everyone among our people. It was once our home: the country the Northlings call Harondor. Long ago, my brethren ruled all the lands from the fertile valley of the Aphûr-nin to the northern river Poros. But then the Sea-people came to settle in the far North, and crowned one of the their own as King. I curse the seas that failed to swallow their ships.
+这是我们家喻户晓的故事。
+那个被北方佬称作哈隆铎的
+地方，曾经是我们的家园。
+很久以前，我的同胞统治着
+从阿弗尔-宁到北方波罗斯河
+之间丰饶的谷地。然而，海
+上人来了、他们在北方的远
+处定居下来，并且自封了一
+个族人称王。诅咒这大海，
+诅咒它没有吞没他们的船！
 
-The realm of the Adûnâim grew in strength, and soon only the shallow waters of Poros divided their lands from ours. As we all know, the Northlings are a vile and greedy sort of men, who felt only envy when they looked upon our beautiful lands. So with cruelty and threats, they forced many of our Princes in the North to pay tribute. Before long, many of those Princes swore fealty and declared themselves servants of the White Tree! Can you imagine it? Some of those cowards even adopted the ways and speech of the North. It was a grave betrayal of our people... yet they would pay for their folly, soon enough.
+阿督耐人的国家日益强盛，
+很快我们的领土和他们的国
+度就仅剩下一条波罗斯河的
+浅水相隔。众所周知，卑鄙
+贪婪的北方佬看到我们的美
+丽土地时，只会感到嫉妒。
+于是，在他们的暴力和威胁
+之下，我们北方的很多亲王
+被迫向他们交纳贡品，甚至
+不久以后不少人都向白树效
+命，成为了北方佬的走狗。
+你能想象吗，有些懦夫居然
+接纳了北方的语言和风俗！
+这是对我们人民的严重背叛
+…不过很快，他们就会为自
+己的愚蠢付出代价。
 
-For it was the Northlings' King Tarannon who, greedy as he was, no longer felt content with the tributes he received from those few traitorous Princes. Instead, he declared that all the lands north of the Aphûr-nin belonged to his kingdom. That very day, the war for Harondor, the great tragedy of our people, began.
+直到那时，贪得无厌的北方
+佬国王塔栏农，已经不再满
+足于仅仅从那些叛徒亲王手
+中收受贡品，他竟然宣称阿
+弗尔-宁北方的所有土地都归
+属于他的王国。从那一天开
+始，我们的人民的悲惨时代
+，也就是哈隆铎战争，打响
+了。
 
-Our warriors were fierce and fearless, gladly giving their lives to protect the lands of our forefathers. Yet in the end the strength of our men was not enough, for the Northlings' treachery knew no end, and their sorcery granted them power we could not match. After years of war, Harondor was lost, and our people were exiled south, behind the Aphûr-nin. Those traitors who fought alongside the Northlings were rewarded, with high positions of great favour, while they left their own people to wither and starve. Cursed be their names!
+我们的战士勇猛无畏，都愿
+意为了保卫先祖留下的土地
+而捐躯。尽管如此，我们的
+势力仍然不足，因为北方佬
+的奸诈从无止境：他们通过
+巫术获取了强大的力量，我
+们难以抗衡。几年的战争下
+来，哈隆铎地区沦陷了，我
+们的人被驱逐到了阿弗尔-宁
+的对岸。和北方佬狼狈为奸
+的叛徒们都受到了奖赏、身
+居高位，却放任属下的民众
+在饥饿中凋零。他们的名字
+将被诅咒！
 
-Aye, that was the tragedy of Harondor. And at last, it seems, there may be a way to make things right. For the Great Eye is rising once more in the Shadow-lands, and allied to his might, we cannot fail! We shall reclaim what was once ours, so that no Northling will ever again set foot upon our people's country. The White Tree will wither, and turn to dust! Praise the Lord of Fire and Ash! Praise Sauron the Great!
+嗯，这就是哈隆铎的悲剧。
+但是如今，事情看起来终于
+有了好转的希望。大魔眼在
+魔多又一次崛起了，与他结
+盟的我们绝不会失败！我们
+必将夺回曾经属于我们的土
+地，北方佬再也不能踏足我
+们同胞的家园。白树将会枯
+萎、化为尘土！赞美火焰与
+灰烬之主！赞美至高无上的
+索隆大人！
