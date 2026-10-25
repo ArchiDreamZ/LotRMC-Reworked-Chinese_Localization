@@ -1,7 +1,7 @@
 # Karseius
 #
 #title:一些观察
-#author:{name:gondor_male}
+#author:刚铎的{name:gondor_male}
 #types:southron,umbar,gondor
 #reward
 #
